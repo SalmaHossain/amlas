@@ -1,0 +1,22 @@
+BOOKS AND LINKS:
+
+Math-116: Precalculus(Sullivan)
+Link:http://Precalculus[Ebook].pdf
+Math-120: Calculus(Howard Anton)
+Link:http://Calculus[Ebook].pdf
+math-125: Elementary Linear Algebra
+Link:http://Elementary-Linear-Algebra-Version-pdf
+Phy-107: 1.Wave And Oscillation by Birij Lal
+         2.Heat And Thermodynamics by Birij Lal
+Link:http://Heat-And-Thermodynamics-by-Birij-Lal.pdf
+Cse173: Discrete Mathematics
+Link:http://discrete-mathematics[Ebook].pdf
+Eng103: English 103 Book
+Link:http://eng103[Ebook].pdf
+Eng102: English 102 Book
+Link:http://eng102[Ebook].pdf
+
+IMPORTANT WEBSITE LINKS:
+
+Matrix And Determinant : https://matrix.reshish.com/
+Graph : https://www.desmos.com/calculator
